@@ -1,0 +1,35 @@
+new Date();
+new Date(valor);
+new Date(dataString);
+new Date(ano, mês, dia, hora,
+
+
+Parameters fot Data constructors:
+
+-value
+-dataString
+- month
+- day
+- hour
+- minute
+- second
+- milisecond
+
+
+Data Type:
+- number:
+    *Infinity
+    *Nan
+
+- string
+
+- boolean
+
+- null
+
+- undefined
+
+- function
+
+IMPORTANT: When we want to check a data type of a varuable 
+we need type typeof variable_name and
