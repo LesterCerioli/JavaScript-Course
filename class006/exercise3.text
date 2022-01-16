@@ -1,0 +1,9 @@
+//Execute on Node Js
+
+
+//Template String
+var student = Lester
+var age = 23
+var grade = 10
+
+'The ${student} with {age} years got the {grade}'
